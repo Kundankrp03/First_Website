@@ -3,18 +3,6 @@
     padding: 0;
     
 }
-/* @font-face {
-    font-family: "Dongle-light";
-    src: url("DongLe/Dongle-light.ttf");
-}
-@font-face {
-    font-family: "Dongle-regular";
-    src: url("DongLe/Dongle-regular.ttf");
-}
-@font-face {
-    font-family: "Dongle-bold";
-    src: url("DongLe/Dongle-bold.ttf");
-} */
 header{
     display: flex;
     padding: 20px;
